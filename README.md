@@ -9,8 +9,6 @@ This project focuses on analyzing a retail store’s sales dataset to uncover tr
 - Python  
 - Jupyter Notebook  
 - Pandas  
-- Matplotlib  
-- Seaborn  
 
 ## About the Project
 
